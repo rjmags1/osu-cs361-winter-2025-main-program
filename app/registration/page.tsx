@@ -97,7 +97,7 @@ const Registration = () => {
                 </div>
                 {validCreds === false && (
                     <p className="text-sm text-red-500 mt-2">
-                        Passwords don't match
+                        Passwords don&apos;t match
                     </p>
                 )}
                 <button
